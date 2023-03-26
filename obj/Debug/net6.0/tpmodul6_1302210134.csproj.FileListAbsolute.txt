@@ -1,0 +1,15 @@
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\bin\Debug\net6.0\tpmodul6_1302210134.exe
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\bin\Debug\net6.0\tpmodul6_1302210134.deps.json
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\bin\Debug\net6.0\tpmodul6_1302210134.runtimeconfig.json
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\bin\Debug\net6.0\tpmodul6_1302210134.dll
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\bin\Debug\net6.0\tpmodul6_1302210134.pdb
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\obj\Debug\net6.0\tpmodul6_1302210134.csproj.AssemblyReference.cache
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\obj\Debug\net6.0\tpmodul6_1302210134.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\obj\Debug\net6.0\tpmodul6_1302210134.AssemblyInfoInputs.cache
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\obj\Debug\net6.0\tpmodul6_1302210134.AssemblyInfo.cs
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\obj\Debug\net6.0\tpmodul6_1302210134.csproj.CoreCompileInputs.cache
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\obj\Debug\net6.0\tpmodul6_1302210134.dll
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\obj\Debug\net6.0\refint\tpmodul6_1302210134.dll
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\obj\Debug\net6.0\tpmodul6_1302210134.pdb
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\obj\Debug\net6.0\tpmodul6_1302210134.genruntimeconfig.cache
+C:\Users\Chandra\source\repos\tpmodul6_1302210134\tpmodul6_1302210134\obj\Debug\net6.0\ref\tpmodul6_1302210134.dll
